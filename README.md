@@ -5,15 +5,11 @@
   ### 支持 Windows、Mac系统,软件截图
 <table>
   <tr>
-    <td><img width="400" alt="image" src="" /></td>
+    <td><img width="400" alt="image" src="https://github.com/tccpc/cursor-free-x/blob/main/ScreenShot.png" /></td>
   </tr>
 </table>
 
-## 加入QQ群获取最新下载,交流学习
-<img width="529" height="650" alt="image" src="" />
-
-
-## Cursor 技术交流QQ群 1026438068
+## 加入QQ群获取最新下载,交流学习 1026438068
 
 ## 新手文档：https://pcni5r0ssevp.feishu.cn/wiki/IkgdwFjdrio4glkn4QAcVnhWnpe
 
