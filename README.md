@@ -15,8 +15,6 @@
 
 ## 下载：https://wwws.lanzouo.com/b016kc9lij 密码：c5hi
 
-## 购卡：https://pay.ldxp.cn/shop/ERU97DIY
-
 ## 声明
 
 本项目仅供学习交流使用，请勿用于商业用途。
