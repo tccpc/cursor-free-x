@@ -1,5 +1,5 @@
-# CursorPro 助手
-## 轻松一键续杯 Cursor Pro
+# CursorX 助手
+## 轻松一键续杯 Cursor X
 ## 【支持Claude 4.5及MAX、GPT 5等会员模型】
 
   ### 支持 Windows、Mac系统,软件截图
