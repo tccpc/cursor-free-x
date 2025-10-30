@@ -12,7 +12,13 @@
 </table>
 
 ## 加入QQ群获取最新下载,交流学习
-QQ群号: 1026438068
+** QQ群号: 1026438068 **
+<table>
+  <tr>
+    <td><img width="400" alt="image" src="https://github.com/tccpc/cursor-free-x/blob/main/ScreenShot_2025-10-30_094104_361.png" /></td>
+  </tr>
+</table>
+
 
 ## 新手文档
 https://pcni5r0ssevp.feishu.cn/wiki/IkgdwFjdrio4glkn4QAcVnhWnpe
